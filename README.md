@@ -32,7 +32,7 @@ python main.py
 
 - "remind me to stretch in 10 minutes"
 - "set a reminder at 6 pm to call mom"
-- "what's the weather in Kampala?" / "weather in London"
+- "what's the weather in Delhi"
 - "read the news" / "headlines"
 - "list reminders" / "delete reminder one"
 - "help" / "exit"
